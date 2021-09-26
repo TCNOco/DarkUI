@@ -6,32 +6,32 @@ namespace DarkUI.Config
     {
         public static Color GreyBackground
         {
-            get { return Color.FromArgb(60, 63, 65); }
+            get { return Color.FromArgb(40, 42, 54); }
         }
 
         public static Color HeaderBackground
         {
-            get { return Color.FromArgb(57, 60, 62); }
+            get { return Color.FromArgb(40, 42, 54); }
         }
 
         public static Color BlueBackground
         {
-            get { return Color.FromArgb(66, 77, 95); }
+            get { return Color.FromArgb(40, 42, 54); }
         }
 
         public static Color DarkBlueBackground
         {
-            get { return Color.FromArgb(52, 57, 66); }
+            get { return Color.FromArgb(40, 42, 54); }
         }
 
         public static Color DarkBackground
         {
-            get { return Color.FromArgb(43, 43, 43); }
+            get { return Color.FromArgb(40, 42, 54); }
         }
 
         public static Color MediumBackground
         {
-            get { return Color.FromArgb(49, 51, 53); }
+            get { return Color.FromArgb(40, 42, 54); }
         }
 
         public static Color LightBackground
@@ -71,12 +71,12 @@ namespace DarkUI.Config
 
         public static Color BlueHighlight
         {
-            get { return Color.FromArgb(104, 151, 187); }
+            get { return Color.FromArgb(139,233,253); }
         }
 
         public static Color BlueSelection
         {
-            get { return Color.FromArgb(75, 110, 175); }
+            get { return Color.FromArgb(98,114,164); }
         }
 
         public static Color GreyHighlight
@@ -106,7 +106,7 @@ namespace DarkUI.Config
 
         public static Color ActiveControl
         {
-            get { return Color.FromArgb(159, 178, 196); }
+            get { return Color.FromArgb(255,184,108); }
         }
     }
 }
