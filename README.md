@@ -1,5 +1,8 @@
 <img src="http://www.darkui.com/images/logo-888.png">
 
+### This is a modified version of DarkUI
+This project was lightly modified for some different colors, and is used in the [TcNo osu!Cleaner](https://github.com/TcNobo/TcNo-osu-Cleaner/).
+
 ## DarkUI
 Dark themed control and docking library for .NET WinForms.
 
